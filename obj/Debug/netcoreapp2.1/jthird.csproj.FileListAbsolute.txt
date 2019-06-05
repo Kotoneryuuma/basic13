@@ -1,0 +1,11 @@
+/Users/sekiryouma/jthird/bin/Debug/netcoreapp2.1/jthird.deps.json
+/Users/sekiryouma/jthird/bin/Debug/netcoreapp2.1/jthird.runtimeconfig.json
+/Users/sekiryouma/jthird/bin/Debug/netcoreapp2.1/jthird.runtimeconfig.dev.json
+/Users/sekiryouma/jthird/bin/Debug/netcoreapp2.1/jthird.dll
+/Users/sekiryouma/jthird/bin/Debug/netcoreapp2.1/jthird.pdb
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.csprojAssemblyReference.cache
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.csproj.CoreCompileInputs.cache
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.AssemblyInfoInputs.cache
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.AssemblyInfo.cs
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.dll
+/Users/sekiryouma/jthird/obj/Debug/netcoreapp2.1/jthird.pdb
